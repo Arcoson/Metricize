@@ -1,8 +1,6 @@
-# 📈 StockEngine
+# StockEngine
 
 A powerful stock analysis platform that empowers investors with advanced data visualization, comprehensive technical analysis, and interactive comparison tools.
-
-<img src="attached_assets/A-2.png" width="200" height="200">
 
 ![Dashboard](attached_assets/dashboard.avif)
 
